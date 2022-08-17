@@ -21,9 +21,9 @@
     <a href="https://open-traffic-dbt-doc.netlify.app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bwibokhaabi/traffic_dwh/issues">Report Bug</a>
+    <a href="https://github.com/bwibokhaabi/elt_datawarehouse/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bwibokhaabi/traffic_dwh/issues">Request Feature</a>
+    <a href="https://github.com/bwibokhaabi/elt_datawarehouse/issues">Request Feature</a>
   </p>
 </div>
 
@@ -83,11 +83,11 @@ Make sure you have docker installed on local machine.
 
 1. Clone the repo
    ```sh
-   git clone https://https://github.com/DiyeMark/Traffic-ELT.git
+   git clone https://https://github.com/bwibokhaabi/elt_datawarehouse.git
    ```
 2. Navigate to the folder
    ```sh
-   cd Traffic-ELT
+   cd elt_datawarehouse
    ```
 3. Build an airflow image
    ```sh
@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Denamo Markos - daisyokacha9@gmail.com
+Daisy Okacha - daisyokacha9@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -138,4 +138,4 @@ Denamo Markos - daisyokacha9@gmail.com
 
 - [10 Academy](https://www.10academy.org/)
 
-[redash-url]: https://redash.io/
+
